@@ -138,7 +138,7 @@ referencing==0.36.2
     #   jsonschema-specifications
 regex==2024.11.6
     # via dateparser
-requests==2.32.3
+requests==2.32.4
     # via frictionless
 rfc3986==2.0.0
     # via frictionless
